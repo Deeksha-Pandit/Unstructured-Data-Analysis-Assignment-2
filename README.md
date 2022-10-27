@@ -1,7 +1,5 @@
 # Unstructured-Data-Analysis-Assignment-2
 
-Unstructured Data Analytics (Fall 2022)
-Assignment #2
 Note: While this assignment is about politics and the upcoming midterm elections, upon doing this assignment you will obviously see how the overall approach could be applied to a business setting where we analyze what attributes people associate with two competing products or brands, how they feel about such attributes (sentiments), and how the sentiments vary by geography. 
 
 A.	Collect 4-6k tweets on the any senate race in a battleground state (may I suggest John Fetterman and Dr. Mehmet Oz in Pennsylvania). It is preferable to use general hashtags and search keywords (like PA Senate race 2022) rather than “Fetterman” or “Oz” because of the probability of Fetterman or Oz being close to 1 in the latter cases.  Let the occurrences of Fetterman or Oz come naturally in a subset of the tweets you collect. 
